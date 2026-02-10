@@ -23,7 +23,7 @@ paddingBottom:"100px",
 width: "380px",
 height: "380px",
 borderRadius: "20px",
-backgroundImage: "url('images//profile.jpeg')",
+backgroundImage: "url('images//profile1.jpeg')",
 backgroundSize: "cover",
 backgroundPosition: "center"
 }}
