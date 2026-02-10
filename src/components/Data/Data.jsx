@@ -17,7 +17,7 @@ const Data = [
     projects: [
       {
         title: "Portfolio Website",
-        description: "A responsive personal portfolio website to showcase skills, projects, and contact information with a modern UI.",
+        description: "A responsive personal portfolio website to show case skills, projects, and contact information with a modern UI.",
         tech: "React, Bootstrap",
         img: "/images/projects/portfolio.png",
       },
