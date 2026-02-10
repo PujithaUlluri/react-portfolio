@@ -1,0 +1,14 @@
+.skill-card {
+  border-radius: 15px;
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.skill-img {
+  width: 140px;   
+  height: 140px;   
+  object-fit: contain;
+  background: #e8e0e0;
+}
+#skills { 
+    background: linear-gradient(135deg, #f2f4f9, #afc3e6); 
+}
